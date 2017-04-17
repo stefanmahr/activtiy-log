@@ -7,6 +7,16 @@
             "email": "office@stefanmahr.com"
         }
     ],
+	"autoload": {
+        "classmap": [
+            "src/commands"
+        ],
+        "psr-4": {
+            "Stefanmahr\\ActivityLog\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+		"php": ">=5.5.0"
+	}
 }
