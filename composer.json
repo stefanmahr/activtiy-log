@@ -1,0 +1,12 @@
+{
+    "name": "stefanmahr/activity-log",
+    "description": "Laravel Activity Log",
+    "authors": [
+        {
+            "name": "Stefan Mahr",
+            "email": "office@stefanmahr.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
