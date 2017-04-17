@@ -15,7 +15,6 @@
             "Stefanmahr\\ActivityLog\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "require": {
 		"php": ">=5.5.0"
 	}
